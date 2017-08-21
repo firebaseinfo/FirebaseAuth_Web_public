@@ -3,3 +3,5 @@
 видео-версия туториала: https://www.youtube.com/playlist?list=PLnBCiDsweEBksggZB1Ofe-miAFOmCsojY  
 блог-версия туториала: https://goo.gl/hokNzj  
 сам веб-сайт: https://fir-testapp-8a093.firebaseapp.com/
+
+![screen shot 2017-08-21 at 19 42 27](https://user-images.githubusercontent.com/14164864/29532918-caaf3e82-86af-11e7-919d-b15fe8a382be.png)
