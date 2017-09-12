@@ -6,4 +6,4 @@
 
 Пример одной из возможных аутентификаций:  
 
-![screen shot 2017-08-21 at 19 42 27](https://user-images.githubusercontent.com/14164864/29532918-caaf3e82-86af-11e7-919d-b15fe8a382be.png)
+![screen shot 2017-08-21 at 19 42 27](https://user-images.githubusercontent.com/14164864/29532918-caaf3e82-86af-11e7-919d-b15fe8a382be.png).
